@@ -1,7 +1,8 @@
 # Whatsapp-Chat-Analysis
 A Streamlit-based app that analyzes WhatsApp chat exports using Natural Language Processing (NLP). It provides insights into messaging patterns, user behavior, emoji usage, media sharing, and more — all visualized in an interactive dashboard.
 
-# WhatsApp Chat Analyzer is a Python-powered tool built with Streamlit and NLP techniques that processes exported WhatsApp chat files (.txt) to extract meaningful insights like:
+# Description
+WhatsApp Chat Analyzer is a Python-powered tool built with Streamlit and NLP techniques that processes exported WhatsApp chat files (.txt) to extract meaningful insights like:
 
 📈 Total messages, words, links, and media shared
 🙋‍♂️ Most active users
